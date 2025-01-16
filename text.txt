@@ -1,3 +1,5 @@
 random letters backwards message, this is all for git practice
 
 now I have to make a change to this file. yay
+
+// consider adding notes WriteLine.("Hello World.");
